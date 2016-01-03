@@ -1,4 +1,4 @@
-# Grails (AWS CLI)
+# AWS CLI (Docker)
 
 [![Build Status](https://circleci.com/gh/donbeave/docker-awscli.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/donbeave/docker-awscli)
 [![Analytics](https://ga-beacon.appspot.com/UA-71075299-1/docker-awscli/main-page)](https://github.com/igrigorik/ga-beacon)
